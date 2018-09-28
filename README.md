@@ -1,0 +1,2 @@
+# rhyme_helper
+rhyme_helper是一个Shell下的押韵字词寻找工具
